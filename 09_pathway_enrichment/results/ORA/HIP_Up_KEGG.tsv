@@ -1,0 +1,2 @@
+category	subcategory	ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+Environmental Information Processing	Signal transduction	hsa04070	Phosphatidylinositol signaling system	16/436	97/7943	6.67603175016013e-05	0.0202951365204868	0.0186928889004484	8760/1608/160851/9162/56623/3707/4534/55361/55300/5288/5291/5295/5296/5332/113026/8867	16

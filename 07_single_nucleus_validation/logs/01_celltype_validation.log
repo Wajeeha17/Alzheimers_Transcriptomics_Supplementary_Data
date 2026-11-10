@@ -1,0 +1,17 @@
+Nuclei retained: 11884 
+
+Cell-type counts:
+                 
+                     AD Control   Sum
+  Astrocyte         472    1699  2171
+  Endothelial        37      61    98
+  Microglia         172     277   449
+  Neuron            249     407   656
+  Oligodendrocyte  4655    2777  7432
+  OPC               179     899  1078
+  Sum              5764    6120 11884
+
+Reading count matrix...
+Count matrix: 10850 genes x 13214 nuclei
+Matched nuclei: 11884 
+Genes after detection filtering: 10848 

@@ -1,0 +1,17 @@
+
+==============================
+DATASET: GSE5281 
+==============================
+Features: 54675 
+Samples : 161 
+Quantiles:
+          0%          25%          50%          75%          99%         100% 
+5.537930e-02 1.470500e+01 5.404130e+01 1.665070e+02 3.566569e+03 5.280435e+05 
+Applying log2 transformation
+Features after filtering: 54675 
+
+===== QC SUMMARY =====
+        dataset original_features samples missing_original nonfinite_original
+GSE5281 GSE5281             54675     161                0                  0
+        log2_applied normalized_features
+GSE5281         TRUE               54675

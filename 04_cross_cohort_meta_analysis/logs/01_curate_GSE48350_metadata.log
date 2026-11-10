@@ -1,0 +1,33 @@
+
+===== DIAGNOSIS =====
+
+     AD Control 
+     80     173 
+
+===== REGION × DIAGNOSIS =====
+     
+       AD Control Sum
+  EC   15      39  54
+  HIP  19      43  62
+  PCG  25      43  68
+  SFG  21      48  69
+  Sum  80     173 253
+
+===== SEX × DIAGNOSIS =====
+        
+         AD Control
+  Female 47      82
+  Male   33      91
+
+Age summary:
+$AD
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA      80 
+
+$Control
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  20.00   37.00   69.00   59.99   83.00   99.00 
+
+
+Unclassified diagnosis: 0 
+Unclassified region: 0 

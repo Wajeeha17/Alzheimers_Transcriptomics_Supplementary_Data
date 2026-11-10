@@ -1,0 +1,84 @@
+1. Reading multilayer candidates...
+Candidate genes: 100 
+
+2. Reading GSE5281...
+Discovery samples: 80 
+AD: 43  Control: 37 
+Candidate genes available in GSE5281: 100 
+Features after variance filtering: 100 
+
+3. Repeated elastic-net cross-validation...
+Repeat 1  selected 24 genes
+Repeat 2  selected 26 genes
+Repeat 3  selected 22 genes
+Repeat 4  selected 21 genes
+Repeat 5  selected 25 genes
+Repeat 6  selected 22 genes
+Repeat 7  selected 22 genes
+Repeat 8  selected 23 genes
+Repeat 9  selected 23 genes
+Repeat 10  selected 23 genes
+Repeat 11  selected 22 genes
+Repeat 12  selected 22 genes
+Repeat 13  selected 21 genes
+Repeat 14  selected 23 genes
+Repeat 15  selected 23 genes
+Repeat 16  selected 27 genes
+Repeat 17  selected 24 genes
+Repeat 18  selected 22 genes
+Repeat 19  selected 24 genes
+Repeat 20  selected 24 genes
+Repeat 21  selected 23 genes
+Repeat 22  selected 24 genes
+Repeat 23  selected 23 genes
+Repeat 24  selected 23 genes
+Repeat 25  selected 22 genes
+Repeat 26  selected 22 genes
+Repeat 27  selected 22 genes
+Repeat 28  selected 23 genes
+Repeat 29  selected 22 genes
+Repeat 30  selected 24 genes
+
+Stable signature genes: 20 
+ [1] "ATP6V1A"  "CALM1"    "CDC37"    "CNOT10"   "DPCD"     "EZR"     
+ [7] "GOLIM4"   "ITPKB"    "KIZ"      "LIFR"     "MALAT1"   "NEAT1"   
+[13] "PPP2R2D"  "RBM33"    "TFEB"     "NDUFA7"   "ATP6V1G2" "BRD8"    
+[19] "DZIP3"    "CCT5"    
+Warning messages:
+1: glm.fit: algorithm did not converge 
+2: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+Warning message:
+In ci.auc.roc(roc1) :
+  ci.auc() of a ROC curve with AUC == 1 is always 1-1 and can be misleading.
+
+Discovery apparent AUC: 1 
+
+4. Preparing independent GSE48350 validation...
+Mapping columns: PROBEID, SYMBOL, variance 
+Validation samples: 185 
+AD: 55  Control: 130 
+Signature genes recovered in validation: 20 / 20 
+
+External validation AUC: 0.6718182 
+95% CI: 0.5916695 - 0.7519669 
+null device 
+          1 
+null device 
+          1 
+
+============================================
+SIGNATURE DEVELOPMENT/VALIDATION COMPLETED
+============================================
+
+Signature genes:
+ ATP6V1A, CALM1, CDC37, CNOT10, DPCD, EZR, GOLIM4, ITPKB, KIZ, LIFR, MALAT1, NEAT1, PPP2R2D, RBM33, TFEB, NDUFA7, ATP6V1G2, BRD8, DZIP3, CCT5 
+
+Median repeated-CV AUC: 0.977567 
+External GSE48350 AUC: 0.6718182 
+
+External performance by region:
+   Cohort   Region   N AD Control       AUC    CI_low   CI_high
+ GSE48350 Combined 185 55     130 0.6718182 0.5916695 0.7519669
+ GSE48350       EC  54 15      39 0.6649573 0.5438506 0.7860640
+ GSE48350      HIP  62 19      43 0.7331701 0.6042379 0.8621024
+ GSE48350      SFG  69 21      48 0.6552579 0.5207483 0.7897676

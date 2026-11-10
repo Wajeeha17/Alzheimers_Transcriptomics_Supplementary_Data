@@ -1,0 +1,31 @@
+
+====================================
+Retrieving: GSE5281 
+====================================
+Found 1 file(s)
+GSE5281_series_matrix.txt.gz
+Platform: GPL570 
+Samples: 161 
+Features: 54675 
+Saved metadata: raw_metadata/GEO/GSE5281_platform1_metadata.tsv 
+Saved expression: expression_data/GSE5281_platform1_expression.tsv.gz 
+
+====================================
+Retrieving: GSE48350 
+====================================
+Found 1 file(s)
+GSE48350_series_matrix.txt.gz
+FAILED: GSE48350 
+Reason: Timeout was reached: [] Operation timed out after 120000 milliseconds with 41974448 out of 60194969 bytes received 
+
+====================================
+Retrieving: GSE33000 
+====================================
+Found 1 file(s)
+GSE33000_series_matrix.txt.gz
+FAILED: GSE33000 
+Reason: Timeout was reached: [] Operation timed out after 120001 milliseconds with 29991599 out of 112099269 bytes received 
+
+=== RETRIEVAL SUMMARY ===
+  dataset_id platform_index platform samples features metadata_columns
+1    GSE5281              1   GPL570     161    54675               70

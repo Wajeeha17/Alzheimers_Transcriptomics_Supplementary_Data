@@ -1,0 +1,78 @@
+1/5 Reading regional differential-expression results...
+Gene universe: 21367 
+2/5 Adding WGCNA evidence...
+3/5 Adding regulatory-network evidence...
+4/5 Adding single-nucleus evidence...
+5/5 Calculating integrated evidence scores...
+
+=========================================
+MULTILAYER INTEGRATION COMPLETED
+=========================================
+
+Gene universe: 21367 
+High-confidence candidates: 331 
+
+Top 20 candidates:
+ Priority_rank    Gene DEG_regions Direction_consistency WGCNA_module
+             1   CADPS           5                     1    turquoise
+             2   ITPKB           4                     1         blue
+             3   NRXN3           4                     1    turquoise
+             4    LIFR           4                     1         blue
+             5     CCK           4                     1    turquoise
+             6   CALM1           5                     1    turquoise
+             7   NEAT1           5                     1         blue
+             8  CAMK2G           5                     1        brown
+             9  FBXO32           5                     1        brown
+            10   RBM33           4                     1        brown
+            11   VSNL1           4                     1    turquoise
+            12   SCN8A           4                     1    turquoise
+            13   SLIT3           3                     1    turquoise
+            14   STMN2           3                     1    turquoise
+            15    MDH1           3                     1    turquoise
+            16 SLC11A2           4                     1         <NA>
+            17  MALAT1           4                     1        brown
+            18     SST           4                     1    turquoise
+            19  UQCRC2           5                     1    turquoise
+            20    HBP1           4                     1        brown
+ Module_membership Regulatory_regions snRNA_direction_concordant
+                NA                  5                          2
+                NA                  4                          2
+                NA                  4                          3
+                NA                  4                          2
+                NA                  4                          3
+                NA                  5                          1
+                NA                  0                          5
+                NA                  5                          0
+                NA                  5                          0
+                NA                  4                          2
+                NA                  0                          1
+                NA                  4                          1
+                NA                  3                          1
+                NA                  0                          1
+                NA                  0                          1
+                NA                  4                          1
+                NA                  4                          0
+                NA                  4                          0
+                NA                  0                          2
+                NA                  4                          0
+ Evidence_layers_positive Integrated_score
+                        6        0.6965142
+                        6        0.6674090
+                        6        0.6261688
+                        6        0.6240110
+                        5        0.6813341
+                        5        0.6319143
+                        5        0.6313036
+                        5        0.6115887
+                        5        0.6083177
+                        5        0.6039663
+                        5        0.5984595
+                        5        0.5953395
+                        5        0.5917119
+                        5        0.5712488
+                        5        0.5711875
+                        5        0.5627275
+                        5        0.5579144
+                        5        0.5576930
+                        5        0.5550356
+                        5        0.5528922

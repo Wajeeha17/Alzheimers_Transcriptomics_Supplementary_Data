@@ -1,0 +1,58 @@
+
+============================
+EC
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 855 genes
+'select()' returned 1:1 mapping between keys and columns
+Reading KEGG annotation online: "https://rest.kegg.jp/link/hsa/pathway"...
+Reading KEGG annotation online: "https://rest.kegg.jp/list/pathway/hsa"...
+Down : 1563 genes
+'select()' returned 1:1 mapping between keys and columns
+
+============================
+HIP
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 1153 genes
+'select()' returned 1:many mapping between keys and columns
+Down : 1013 genes
+'select()' returned 1:1 mapping between keys and columns
+
+============================
+MTG
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 842 genes
+'select()' returned 1:1 mapping between keys and columns
+Down : 3755 genes
+'select()' returned 1:many mapping between keys and columns
+
+============================
+PC
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 3210 genes
+'select()' returned 1:many mapping between keys and columns
+Down : 1260 genes
+'select()' returned 1:1 mapping between keys and columns
+
+============================
+SFG
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 90 genes
+'select()' returned 1:1 mapping between keys and columns
+Down : 1918 genes
+'select()' returned 1:1 mapping between keys and columns
+
+============================
+VCX
+============================
+'select()' returned 1:many mapping between keys and columns
+Up : 12 genes
+'select()' returned 1:1 mapping between keys and columns
+Down : 0 genes
+Too few genes; skipping.
+
+REGIONAL ORA COMPLETED

@@ -1,0 +1,45 @@
+Gene expression matrix: 21367 genes x 161 samples
+
+Neuron : 14 / 14 markers matched
+RBFOX3, SNAP25, SYT1, SYN1, SYP, MAP2, NEFL, NEFM, NEFH, GRIN1, CAMK2A, STMN2, TUBB3, ENO2 
+
+Astrocyte : 12 / 12 markers matched
+GFAP, AQP4, ALDH1L1, SLC1A2, SLC1A3, GLUL, GJA1, S100B, SOX9, CLU, APOE, ALDOC 
+
+Microglia : 13 / 13 markers matched
+AIF1, CX3CR1, P2RY12, TMEM119, CSF1R, TYROBP, TREM2, C1QA, C1QB, C1QC, CTSS, FCER1G, LAPTM5 
+
+Oligodendrocyte : 12 / 12 markers matched
+MBP, PLP1, MOG, MAG, MOBP, CNP, CLDN11, OLIG1, OLIG2, SOX10, ERMN, MYRF 
+
+OPC : 9 / 9 markers matched
+PDGFRA, CSPG4, VCAN, SOX10, OLIG1, OLIG2, NKX2-2, PTPRZ1, BCAN 
+
+Endothelial : 11 / 11 markers matched
+CLDN5, PECAM1, VWF, KDR, FLT1, EMCN, RAMP2, ESAM, CDH5, ENG, ERG 
+
+
+====================================
+CELL-TYPE SCORING COMPLETED
+====================================
+
+Samples: 161 
+
+Score summary:
+     Neuron            Astrocyte          Microglia        Oligodendrocyte   
+ Min.   :-1.783575   Min.   :-1.27788   Min.   :-1.43003   Min.   :-1.21287  
+ 1st Qu.:-0.458914   1st Qu.:-0.35015   1st Qu.:-0.28311   1st Qu.:-0.49153  
+ Median : 0.005168   Median :-0.03091   Median :-0.04765   Median : 0.00348  
+ Mean   : 0.000000   Mean   : 0.00000   Mean   : 0.00000   Mean   : 0.00000  
+ 3rd Qu.: 0.507499   3rd Qu.: 0.35884   3rd Qu.: 0.28729   3rd Qu.: 0.49036  
+ Max.   : 1.851509   Max.   : 1.19051   Max.   : 1.61911   Max.   : 1.50427  
+      OPC            Endothelial     
+ Min.   :-1.87447   Min.   :-1.3752  
+ 1st Qu.:-0.42418   1st Qu.:-0.3942  
+ Median :-0.03254   Median : 0.0402  
+ Mean   : 0.00000   Mean   : 0.0000  
+ 3rd Qu.: 0.50119   3rd Qu.: 0.3737  
+ Max.   : 1.20534   Max.   : 1.5969  
+
+Output:
+results/GSE5281_celltype_scores.tsv

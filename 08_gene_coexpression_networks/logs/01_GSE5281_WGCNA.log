@@ -1,0 +1,85 @@
+Allowing multi-threading with up to 2 threads.
+Initial matrix: 21367 genes x 161 samples
+          used  (Mb) gc trigger  (Mb) max used  (Mb)
+Ncells 2220273 118.6    6604756 352.8  4956380 264.7
+Vcells 9199342  70.2   25873488 197.4 25871615 197.4
+ Flagging genes and samples with too many missing values...
+  ..step 1
+After QC: 161 samples x 21367 genes
+Genes entering WGCNA: 5000 
+null device 
+          1 
+pickSoftThreshold: will use block size 5000.
+ pickSoftThreshold: calculating connectivity for given powers...
+   ..working on genes 1 through 5000 of 5000
+   Power SFT.R.sq  slope truncated.R.sq  mean.k. median.k. max.k.
+1      1   0.6280  9.940          0.600 2810.000  2850.000 3090.0
+2      2   0.4200  4.030          0.478 1600.000  1640.000 1930.0
+3      3   0.2280  2.090          0.476  922.000   948.000 1210.0
+4      4   0.0945  1.080          0.563  536.000   553.000  771.0
+5      5   0.0134  0.365          0.667  315.000   324.000  493.0
+6      6   0.0114 -0.322          0.760  186.000   191.000  317.0
+7      7   0.0819 -0.833          0.834  111.000   114.000  205.0
+8      8   0.1760 -1.200          0.896   66.900    67.900  133.0
+9      9   0.2390 -1.380          0.935   40.500    40.800   87.1
+10    10   0.3090 -1.540          0.954   24.700    24.700   57.2
+11    12   0.5100 -2.270          0.992    9.440     9.230   27.7
+12    14   0.8610 -3.120          0.896    3.720     3.500   21.2
+13    16   0.9340 -2.980          0.918    1.530     1.350   16.7
+14    18   0.9450 -2.400          0.947    0.658     0.532   13.5
+15    20   0.9250 -2.010          0.924    0.302     0.212   11.1
+null device 
+          1 
+Selected soft power: 14 
+ Calculating module eigengenes block-wise from all genes
+   Flagging genes and samples with too many missing values...
+    ..step 1
+ ..Working on block 1 .
+    TOM calculation: adjacency..
+    ..will use 2 parallel threads.
+     Fraction of slow calculations: 0.000000
+    ..connectivity..
+    ..matrix multiplication (system BLAS)..
+    ..normalization..
+    ..done.
+ ....clustering..
+ ....detecting modules..
+ ....calculating module eigengenes..
+ ....checking kME in modules..
+     ..removing 119 genes from module 1 because their KME is too low.
+  ..reassigning 1 genes from module 2 to modules with higher KME.
+ ..merging modules that are too close..
+     mergeCloseModules: Merging modules whose distance is less than 0.25
+       Calculating new MEs...
+null device 
+          1 
+Warning messages:
+1: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <e2>
+2: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <80>
+3: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <93>
+4: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <e2>
+5: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <80>
+6: In title(main = main, sub = sub, xlab = xlab, ylab = ylab, ...) :
+  conversion failure on 'Module–trait relationships' in 'mbcsToSbcs': dot substituted for <93>
+null device 
+          1 
+
+========================================
+WGCNA COMPLETED
+========================================
+
+Samples: 161
+Genes: 5000
+Soft power: 14
+Modules: 3 
+
+     Module Genes
+3      grey  4511
+4 turquoise   291
+1      blue   127
+2     brown    71

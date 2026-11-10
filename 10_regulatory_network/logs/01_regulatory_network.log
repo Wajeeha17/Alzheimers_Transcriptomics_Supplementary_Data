@@ -1,0 +1,74 @@
+DoRothEA A-C regulatory interactions: 13223 
+Unique TFs: 271 
+
+====================================
+Region: EC 
+====================================
+Significant genes: 2418 
+
+====================================
+Region: HIP 
+====================================
+Significant genes: 2166 
+
+====================================
+Region: MTG 
+====================================
+Significant genes: 4597 
+
+====================================
+Region: PC 
+====================================
+Significant genes: 4470 
+
+====================================
+Region: SFG 
+====================================
+Significant genes: 2008 
+
+====================================
+Region: VCX 
+====================================
+Significant genes: 12 
+
+============================================
+REGULATORY NETWORK RECONSTRUCTION COMPLETED
+============================================
+
+Regulatory edges: 10069 
+Unique TFs: 271 
+Unique targets: 2704 
+
+Top recurrent TFs:
+       TF Regions Total_targets Mean_regulatory_score Mean_target_effect
+3  ZNF263       6           250              5.914558           1.819971
+12   ESR1       6           104              4.863528           1.945504
+34   KLF9       6            63              3.878842           1.774830
+96   ATF3       6            51              3.303592           1.695690
+69  SOX13       6            36              3.269992           2.051837
+4     MYC       5           339              7.130931           1.716420
+1     SP1       5           239              6.791875           1.772250
+9    E2F1       5           226              6.603339           1.760510
+8   STAT1       5           180              6.388871           1.786381
+15   E2F4       5           210              6.301054           1.695910
+5  PRDM14       5           157              6.258875           1.868805
+2   HIF1A       5           133              6.165484           1.890243
+6    TP53       5           171              6.049287           1.732331
+16  FOXP1       5           142              5.983470           1.794159
+7      AR       5           133              5.739657           1.750556
+            Regions_list
+3  EC,HIP,MTG,PC,SFG,VCX
+12 EC,HIP,MTG,PC,SFG,VCX
+34 EC,HIP,MTG,PC,SFG,VCX
+96 EC,HIP,MTG,PC,SFG,VCX
+69 EC,HIP,MTG,PC,SFG,VCX
+4      EC,HIP,MTG,PC,SFG
+1      EC,HIP,MTG,PC,SFG
+9      EC,HIP,MTG,PC,SFG
+8      EC,HIP,MTG,PC,SFG
+15     EC,HIP,MTG,PC,SFG
+5      EC,HIP,MTG,PC,SFG
+2      EC,HIP,MTG,PC,SFG
+6      EC,HIP,MTG,PC,SFG
+16     EC,HIP,MTG,PC,SFG
+7      EC,HIP,MTG,PC,SFG

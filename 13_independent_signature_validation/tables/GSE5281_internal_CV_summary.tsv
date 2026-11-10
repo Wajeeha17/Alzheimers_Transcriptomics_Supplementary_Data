@@ -1,0 +1,5 @@
+Metric	Value
+Repeated_CV_runs	30
+Median_internal_CV_AUC	0.977566964285714
+IQR_internal_CV_AUC	0.0167472718253969
+Signature_genes	20

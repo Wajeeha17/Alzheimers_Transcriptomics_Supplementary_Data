@@ -1,0 +1,130 @@
+Score table dimensions: 161 x 7 
+
+Columns:
+[1] "sample_id"       "Neuron"          "Astrocyte"       "Microglia"      
+[5] "Oligodendrocyte" "OPC"             "Endothelial"    
+
+Detected cell types:
+[1] "Neuron"          "Astrocyte"       "Microglia"       "Oligodendrocyte"
+[5] "OPC"             "Endothelial"    
+Warning messages:
+1: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <e2>
+2: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <80>
+3: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <99>
+4: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <e2>
+5: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <80>
+6: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <99>
+7: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <e2>
+8: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <80>
+9: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Cell-type enrichment across Alzheimer’s disease brain regions' in 'mbcsToSbcs': dot substituted for <99>
+Warning messages:
+1: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <e2>
+2: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <80>
+3: In grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <99>
+4: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <e2>
+5: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <80>
+6: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <99>
+7: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <e2>
+8: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <80>
+9: In grid.Call.graphics(C_text, as.graphicsAnnot(x$label), x$x, x$y,  :
+  conversion failure on 'Regional cell-type alterations in Alzheimer’s disease' in 'mbcsToSbcs': dot substituted for <99>
+
+====================================
+CELL-TYPE FIGURES COMPLETED
+====================================
+
+Statistical results:
+          CellType Region AD_n Control_n   AD_median Control_median    Hedges_g
+1           Neuron     EC   10        13 -0.65572517    0.655510556 -2.04942616
+2           Neuron    HIP   10        13 -0.01143027    0.595694652 -1.11496948
+3           Neuron    MTG   16        12 -0.49548563    0.695594677 -2.82992682
+4           Neuron     PC    9        13 -0.39623561    0.414127627 -1.33019710
+5           Neuron    SFG   23        11 -0.01818716    0.507499258 -1.04558682
+6           Neuron    VCX   19        12 -0.20189091    0.066139422 -0.57586259
+7        Astrocyte     EC   10        13  0.13660040   -0.112372455 -0.17491488
+8        Astrocyte    HIP   10        13 -0.35190223   -0.341873834 -0.32273439
+9        Astrocyte    MTG   16        12  0.51238939   -0.005036357  0.91308812
+10       Astrocyte     PC    9        13 -0.25104970   -0.530515057  0.17363368
+11       Astrocyte    SFG   23        11  0.13811094   -0.004121298  0.61301867
+12       Astrocyte    VCX   19        12  0.18753867   -0.327433235  1.00274178
+13       Microglia     EC   10        13  0.65886856    0.664990099  0.01651839
+14       Microglia    HIP   10        13 -0.08660760   -0.104382201  0.44422749
+15       Microglia    MTG   16        12 -0.05354996    0.101927278 -0.41734119
+16       Microglia     PC    9        13 -0.09678804   -0.473509470  1.09094662
+17       Microglia    SFG   23        11 -0.02598958   -0.063318848 -0.19062980
+18       Microglia    VCX   19        12  0.05135832   -0.309407404  0.73360234
+19 Oligodendrocyte     EC   10        13  0.56703820   -0.002061613  0.89387980
+20 Oligodendrocyte    HIP   10        13 -0.25037358   -0.683342626  0.75722824
+21 Oligodendrocyte    MTG   16        12  0.39543807   -0.442839162  1.00703978
+22 Oligodendrocyte     PC    9        13 -0.03628964   -0.589571813  0.94822886
+23 Oligodendrocyte    SFG   23        11  0.02389636   -0.057224387 -0.20247446
+24 Oligodendrocyte    VCX   19        12  0.53070509   -0.435452148  1.13152067
+25             OPC     EC   10        13  0.40849952   -0.012261719  0.62179239
+26             OPC    HIP   10        13 -0.26930782   -0.424181689  0.43754360
+27             OPC    MTG   16        12  0.62161472   -0.485154729  1.60307512
+28             OPC     PC    9        13 -0.03387851   -0.593061286  1.15350977
+29             OPC    SFG   23        11  0.25684492   -0.242060345  0.48528695
+30             OPC    VCX   19        12  0.30244473   -0.398046594  1.09600810
+31     Endothelial     EC   10        13  0.28394479   -0.293888996  1.12239642
+32     Endothelial    HIP   10        13 -0.51239463   -0.666550103  0.38529782
+33     Endothelial    MTG   16        12  0.38674845    0.086708636  0.27220352
+34     Endothelial     PC    9        13  0.03954669   -0.405947490  0.86621710
+35     Endothelial    SFG   23        11  0.15784912    0.260635362  0.22518836
+36     Endothelial    VCX   19        12  0.28720664   -0.339765319  0.89915332
+        P_value          FDR Significance
+1  4.583576e-04 0.0082504373           **
+2  1.201500e-02 0.0480600129            *
+3  1.420757e-05 0.0005114726          ***
+4  4.085851e-03 0.0254864678            *
+5  3.229474e-03 0.0254864678            *
+6  1.617651e-01 0.2647064967             
+7  6.418382e-01 0.7220679537             
+8  6.418382e-01 0.7220679537             
+9  2.435035e-02 0.0585523193             
+10 6.401805e-01 0.7220679537             
+11 2.107055e-01 0.3297998510             
+12 1.414346e-02 0.0504313499             
+13 8.767871e-01 0.8767870883             
+14 4.382114e-01 0.5439865539             
+15 3.182248e-01 0.4582437655             
+16 2.318006e-02 0.0585523193             
+17 8.539641e-01 0.8767870883             
+18 4.919074e-02 0.0885433246             
+19 3.774789e-02 0.0768822644             
+20 4.384554e-02 0.0830757631             
+21 1.681045e-02 0.0504313499             
+22 3.844113e-02 0.0768822644             
+23 8.251894e-01 0.8737299070             
+24 1.001633e-02 0.0452751496            *
+25 7.714537e-02 0.1322492074             
+26 3.685185e-01 0.4738095527             
+27 1.064575e-03 0.0127749046            *
+28 1.621633e-02 0.0504313499             
+29 3.574083e-01 0.4738095527             
+30 4.247745e-03 0.0254864678            *
+31 1.006114e-02 0.0452751496            *
+32 3.685185e-01 0.4738095527             
+33 2.364892e-01 0.3547337422             
+34 3.844113e-02 0.0768822644             
+35 7.404079e-01 0.8077176633             
+36 2.439680e-02 0.0585523193             
+
+Figures saved in:
+figures/publication/

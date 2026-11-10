@@ -1,0 +1,162 @@
+sample_id	title	region	status
+GSM119615	EC control 1	EC	Control
+GSM119616	EC control 2	EC	Control
+GSM119617	EC control 3	EC	Control
+GSM119618	EC control 4	EC	Control
+GSM119619	EC control 5	EC	Control
+GSM119620	EC control 6	EC	Control
+GSM119621	EC control 7	EC	Control
+GSM119622	EC control 8	EC	Control
+GSM119623	EC control 9	EC	Control
+GSM119624	EC control 10	EC	Control
+GSM119625	EC control 11	EC	Control
+GSM119626	EC control 12	EC	Control
+GSM119627	EC control 13	EC	Control
+GSM119628	HIP control 1	HIP	Control
+GSM119629	HIP control 2	HIP	Control
+GSM119630	HIP control 3	HIP	Control
+GSM119631	HIP control 4	HIP	Control
+GSM119632	HIP control 5	HIP	Control
+GSM119633	HIP control 6	HIP	Control
+GSM119634	HIP control 7	HIP	Control
+GSM119635	HIP control 8	HIP	Control
+GSM119636	HIP control 9	HIP	Control
+GSM119637	HIP control 10	HIP	Control
+GSM119638	HIP control 11	HIP	Control
+GSM119639	HIP control 12	HIP	Control
+GSM119640	HIP control 13	HIP	Control
+GSM119641	MTG control 1	MTG	Control
+GSM119642	MTG control 2	MTG	Control
+GSM119643	MTG control 3	MTG	Control
+GSM119644	MTG control 4	MTG	Control
+GSM119645	MTG control 5	MTG	Control
+GSM119646	MTG control 6	MTG	Control
+GSM119647	MTG control 7	MTG	Control
+GSM119648	MTG control 8	MTG	Control
+GSM119649	MTG control 9	MTG	Control
+GSM119650	MTG control 10	MTG	Control
+GSM119651	MTG control 11	MTG	Control
+GSM119652	MTG control 12	MTG	Control
+GSM119653	PC control 1	PC	Control
+GSM119654	PC control 2	PC	Control
+GSM119655	PC control 3	PC	Control
+GSM119656	PC control 4	PC	Control
+GSM119657	PC control 5	PC	Control
+GSM119658	PC control 6	PC	Control
+GSM119659	PC control 7	PC	Control
+GSM119660	PC control 8	PC	Control
+GSM119661	PC control 9	PC	Control
+GSM119662	PC control 10	PC	Control
+GSM119663	PC control 11	PC	Control
+GSM119664	PC control 12	PC	Control
+GSM119665	PC control 13	PC	Control
+GSM119666	SFG control 1	SFG	Control
+GSM119667	SFG control 2	SFG	Control
+GSM119668	SFG control 3	SFG	Control
+GSM119669	SFG control 4	SFG	Control
+GSM119670	SFG control 5	SFG	Control
+GSM119671	SFG control 6	SFG	Control
+GSM119672	SFG control 7	SFG	Control
+GSM119673	SFG control 8	SFG	Control
+GSM119674	SFG control 9	SFG	Control
+GSM119675	SFG control 10	SFG	Control
+GSM119676	SFG control 11	SFG	Control
+GSM119677	VCX control 1	VCX	Control
+GSM119678	VCX control 2	VCX	Control
+GSM119679	VCX control 3	VCX	Control
+GSM119680	VCX control 4	VCX	Control
+GSM119681	VCX control 5	VCX	Control
+GSM119682	VCX control 6	VCX	Control
+GSM119683	VCX control 7	VCX	Control
+GSM119684	VCX control 8	VCX	Control
+GSM119685	VCX control 9	VCX	Control
+GSM119686	VCX control 10	VCX	Control
+GSM119687	VCX control 11	VCX	Control
+GSM119688	VCX control 12	VCX	Control
+GSM238763	EC_affected_1	EC	AD
+GSM238790	EC_affected_2	EC	AD
+GSM238791	EC_affected_3	EC	AD
+GSM238792	EC_affected_4	EC	AD
+GSM238793	EC_affected_5	EC	AD
+GSM238794	EC_affected_6	EC	AD
+GSM238795	EC_affected_7	EC	AD
+GSM238796	EC_affected_8	EC	AD
+GSM238797	EC_affected_9	EC	AD
+GSM238798	EC_affected_10	EC	AD
+GSM238799	HIP_affected_1	HIP	AD
+GSM238800	HIP_affected_2	HIP	AD
+GSM238801	HIP_affected_3	HIP	AD
+GSM238802	HIP_affected_4	HIP	AD
+GSM238803	HIP_affected_5	HIP	AD
+GSM238804	HIP_affected_6	HIP	AD
+GSM238805	HIP_affected_7	HIP	AD
+GSM238806	HIP_affected_8	HIP	AD
+GSM238807	HIP_affected_9	HIP	AD
+GSM238808	HIP_affected_10	HIP	AD
+GSM238809	MTG_affected_1	MTG	AD
+GSM238810	MTG_affected_2	MTG	AD
+GSM238811	MTG_affected_3	MTG	AD
+GSM238812	MTG_affected_4	MTG	AD
+GSM238813	MTG_affected_5	MTG	AD
+GSM238815	MTG_affected_6	MTG	AD
+GSM238816	MTG_affected_7	MTG	AD
+GSM238817	MTG_affected_8	MTG	AD
+GSM238818	MTG_affected_9	MTG	AD
+GSM238819	MTG_affected_10	MTG	AD
+GSM238820	MTG_affected_11	MTG	AD
+GSM238821	MTG_affected_12	MTG	AD
+GSM238822	MTG_affected_13	MTG	AD
+GSM238823	MTG_affected_14	MTG	AD
+GSM238824	MTG_affected_15	MTG	AD
+GSM238825	MTG_affected_16	MTG	AD
+GSM238826	PC_affected_1	PC	AD
+GSM238827	PC_affected_2	PC	AD
+GSM238834	PC_affected_3	PC	AD
+GSM238835	PC_affected_4	PC	AD
+GSM238837	PC_affected_5	PC	AD
+GSM238838	PC_affected_6	PC	AD
+GSM238839	PC_affected_7	PC	AD
+GSM238840	PC_affected_8	PC	AD
+GSM238841	PC_affected_9	PC	AD
+GSM238842	SFG_affected_1	SFG	AD
+GSM238843	SFG_affected_2	SFG	AD
+GSM238844	SFG_affected_3	SFG	AD
+GSM238845	SFG_affected_4	SFG	AD
+GSM238846	SFG_affected_5	SFG	AD
+GSM238847	SFG_affected_6	SFG	AD
+GSM238848	SFG_affected_7	SFG	AD
+GSM238851	SFG_affected_8	SFG	AD
+GSM238854	SFG_affected_9	SFG	AD
+GSM238855	SFG_affected_10	SFG	AD
+GSM238856	SFG_affected_11	SFG	AD
+GSM238857	SFG_affected_12	SFG	AD
+GSM238858	SFG_affected_13	SFG	AD
+GSM238860	SFG_affected_14	SFG	AD
+GSM238861	SFG_affected_15	SFG	AD
+GSM238862	SFG_affected_16	SFG	AD
+GSM238863	SFG_affected_17	SFG	AD
+GSM238864	SFG_affected_18	SFG	AD
+GSM238865	SFG_affected_19	SFG	AD
+GSM238867	SFG_affected_20	SFG	AD
+GSM238868	SFG_affected_21	SFG	AD
+GSM238870	SFG_affected_22	SFG	AD
+GSM238871	SFG_affected_23	SFG	AD
+GSM238872	VCX_affected_1	VCX	AD
+GSM238873	VCX_affected_2	VCX	AD
+GSM238874	VCX_affected_3	VCX	AD
+GSM238875	VCX_affected_4	VCX	AD
+GSM238877	VCX_affected_5	VCX	AD
+GSM238941	VCX_affected_6	VCX	AD
+GSM238942	VCX_affected_7	VCX	AD
+GSM238943	VCX_affected_8	VCX	AD
+GSM238944	VCX_affected_9	VCX	AD
+GSM238945	VCX_affected_10	VCX	AD
+GSM238946	VCX_affected_11	VCX	AD
+GSM238947	VCX_affected_12	VCX	AD
+GSM238948	VCX_affected_13	VCX	AD
+GSM238949	VCX_affected_14	VCX	AD
+GSM238951	VCX_affected_15	VCX	AD
+GSM238952	VCX_affected_16	VCX	AD
+GSM238953	VCX_affected_17	VCX	AD
+GSM238955	VCX_affected_18	VCX	AD
+GSM238963	VCX_affected_19	VCX	AD

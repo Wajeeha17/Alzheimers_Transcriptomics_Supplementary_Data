@@ -1,0 +1,78 @@
+
+Nuclei retained: 11884 
+
+Cell counts:
+                 
+                     AD Control   Sum
+  Astrocyte         472    1699  2171
+  Endothelial        37      61    98
+  Microglia         172     277   449
+  Neuron            249     407   656
+  Oligodendrocyte  4655    2777  7432
+  OPC               179     899  1078
+  Sum              5764    6120 11884
+
+Reading count matrix...
+            used   (Mb) gc trigger   (Mb)  max used   (Mb)
+Ncells    381884   20.4     664391   35.5    664391   35.5
+Vcells 144179069 1100.0  387474362 2956.2 322826843 2463.0
+
+Matrix: 10850 genes x 13214 nuclei
+Matched nuclei: 11884 
+
+====================================
+Processing: Neuron 
+====================================
+AD: 249 | Control: 407 | Total: 656 
+Genes retained: 2847 
+FDR < 0.05: 621 
+
+====================================
+Processing: Astrocyte 
+====================================
+AD: 472 | Control: 1699 | Total: 2171 
+Genes retained: 2819 
+FDR < 0.05: 1378 
+
+====================================
+Processing: Microglia 
+====================================
+AD: 172 | Control: 277 | Total: 449 
+Genes retained: 1609 
+FDR < 0.05: 221 
+
+====================================
+Processing: Oligodendrocyte 
+====================================
+AD: 4655 | Control: 2777 | Total: 7432 
+Genes retained: 1479 
+FDR < 0.05: 1088 
+
+====================================
+Processing: OPC 
+====================================
+AD: 179 | Control: 899 | Total: 1078 
+Genes retained: 2427 
+FDR < 0.05: 540 
+
+====================================
+Processing: Endothelial 
+====================================
+AD: 37 | Control: 61 | Total: 98 
+Genes retained: 1929 
+FDR < 0.05: 104 
+
+====================================
+VALIDATION COMPLETED SUCCESSFULLY
+====================================
+
+         CellType AD_n Control_n Tested FDR_005  Up Down
+1          Neuron  249       407   2847     621  67  554
+2       Astrocyte  472      1699   2819    1378 287 1091
+3       Microglia  172       277   1609     221  70  151
+4 Oligodendrocyte 4655      2777   1479    1088 311  777
+5             OPC  179       899   2427     540  89  451
+6     Endothelial   37        61   1929     104  50   54
+
+Saved:
+ tables/GSE138852_celltype_DE_summary.tsv

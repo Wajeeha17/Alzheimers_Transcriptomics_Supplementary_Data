@@ -1,0 +1,7 @@
+CellType	AD_n	Control_n	Tested	FDR_005	Up	Down
+Neuron	249	407	2847	621	67	554
+Astrocyte	472	1699	2819	1378	287	1091
+Microglia	172	277	1609	221	70	151
+Oligodendrocyte	4655	2777	1479	1088	311	777
+OPC	179	899	2427	540	89	451
+Endothelial	37	61	1929	104	50	54
